@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/coding-monk-2000/static/css/main.073c9b0a.css",
-    "main.js": "/coding-monk-2000/static/js/main.a7f23db1.js",
+    "main.js": "/coding-monk-2000/static/js/main.14b6d6eb.js",
     "static/js/787.28cb0dcd.chunk.js": "/coding-monk-2000/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/coding-monk-2000/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/coding-monk-2000/index.html",
     "main.073c9b0a.css.map": "/coding-monk-2000/static/css/main.073c9b0a.css.map",
-    "main.a7f23db1.js.map": "/coding-monk-2000/static/js/main.a7f23db1.js.map",
+    "main.14b6d6eb.js.map": "/coding-monk-2000/static/js/main.14b6d6eb.js.map",
     "787.28cb0dcd.chunk.js.map": "/coding-monk-2000/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a7f23db1.js"
+    "static/js/main.14b6d6eb.js"
   ]
 }
